@@ -1,5 +1,4 @@
-# DarudeMatstorm
-Darude dankstorm, made in MatLab
+
 The song 'Sandstorm', by Darude, has received a new wave of popularity on the internet over the past few years.
 While having a look at other bits of music made in Matlab, I was inspired to give Sandstorm the Matlab touch.
 
